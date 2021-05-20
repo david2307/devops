@@ -1,2 +1,3 @@
 FROM busybox
-CMD echo "Hello World!"
+MAINTAINER Mario mariog@example.com
+CMD echo "Hello Baby!"
